@@ -58,7 +58,9 @@ The app should:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-br>
+<img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+<br />
+
 ## Usage
 A user click on the form to search for a curent weather
 ![image](https://user-images.githubusercontent.com/115763652/210455343-45b85a95-3d95-4392-8f89-16430ad3f8cc.png)
