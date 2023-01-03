@@ -1,0 +1,41 @@
+header h1 {
+    color: white;
+    background-color: rgba(21, 0, 139, 0.742);
+    text-align: center;
+    padding: 20px;
+  }
+  
+  input {
+    width: 150px;
+  }
+  
+  
+  
+  .body h2 {
+    padding-top: 20px;
+    padding-left: 20px;
+   
+    
+  }
+  
+  .forecast h2 {
+    padding: 20px;
+  }
+  
+  .forecastCard {
+    background-color: darkgrey;
+    color: white;
+  }
+  
+  .five-card {
+    background: indigo;
+    color: white;
+  }
+  
+  @media only screen and (max-width: 960px) {
+  
+    .card-deck {
+      flex-wrap: wrap;
+      flex-direction: column;
+    }
+  }
