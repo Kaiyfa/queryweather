@@ -61,9 +61,6 @@ The app should:
 <img align="left" alt="jquery" width="26px" src=`https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}
 <br />
 
-## Installation
-The user does not need to install any software to use the given web application.
-
 ## Usage
 A user click on the form to search for a curent weather
 ![image](https://user-images.githubusercontent.com/115763652/210455343-45b85a95-3d95-4392-8f89-16430ad3f8cc.png)
