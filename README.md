@@ -58,8 +58,6 @@ The app should:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="jquery" width="26px" src=`https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}
-<br />
 
 ## Usage
 A user click on the form to search for a curent weather
